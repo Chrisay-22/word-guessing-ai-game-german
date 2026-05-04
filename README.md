@@ -46,10 +46,10 @@ A modern, cloud-native implementation of Wordle for German language learners, fe
 
 <div align="center">
 
-| Game Board | Leaderboard | Game Won |
+| Game Board | Leaderboard | Coloured Keyboard |
 |:---:|:---:|:---:|
-| ![Game Board](image.png) | ![Leaderboard](image-1.png) | ![coloured keyboard](image-3.png) |
-| *Active game with color-coded feedback* | *Daily leaderboard with rankings* | *Victory screen with scores and possibility to see insights of other players' guesses* |
+| ![Game Board](image.png) | ![Leaderboard](image-1.png) | ![Coloured keyboard](image-3.png) |
+| *Active game with color-coded feedback* | *Daily, monthly and special leaderboards with point system and rankings. Victory screen with scores and possibility to see insights of other players' guesses* | *color-coded keyboard to comprehend which letters are valid or non-valid to use* |
 
 </div>
 
