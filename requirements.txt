@@ -1,0 +1,6 @@
+flask==3.0.0
+gunicorn==21.2.0
+google-cloud-aiplatform[preview]>=1.39.0
+google-cloud-storage==2.10.0
+python-dotenv==1.0.0
+pytz==2023.3
