@@ -624,30 +624,6 @@ python flask_app.py
 
 ---
 
-## 🚀 Future Enhancements
-
-### Planned Features
-- [ ] Multi-language support (English, French, Spanish)
-- [ ] Difficulty levels (common vs. rare words)
-- [ ] Hint system with point penalties
-- [ ] Friend challenges (direct competition)
-- [ ] Statistics dashboard (win rate, average attempts)
-- [ ] Progressive Web App (PWA) for offline play
-- [ ] Social sharing of results
-- [ ] Daily streaks and achievements
-
-### Technical Improvements
-- [ ] Redis caching layer
-- [ ] GraphQL API
-- [ ] WebSocket for real-time updates
-- [ ] Kubernetes deployment option
-- [ ] Comprehensive test suite
-- [ ] Performance monitoring (Datadog/New Relic)
-- [ ] A/B testing framework
-- [ ] Internationalization (i18n)
-
----
-
 ## 📄 License
 
 MIT License - see [LICENSE](LICENSE) file for details.
@@ -660,27 +636,6 @@ MIT License - see [LICENSE](LICENSE) file for details.
 - **AI Provider**: Google Vertex AI / Gemini
 - **Infrastructure**: Google Cloud Platform
 - **Inspiration**: German language learning community
-
----
-
-## 📧 Contact
-
-For questions or collaboration opportunities:
-- **Portfolio**: [your-portfolio-url]
-- **LinkedIn**: [your-linkedin]
-- **GitHub**: [your-github]
-
----
-
-## 📊 Project Statistics
-
-- **Lines of Code**: ~3,500
-- **Python**: ~1,800 LOC
-- **JavaScript**: ~1,200 LOC
-- **CSS**: ~500 LOC
-- **Development Time**: 2 months
-- **AI Model Calls**: ~10,000/day (production)
-- **Cost**: <$5/month (with Flash-Lite model)
 
 ---
 
