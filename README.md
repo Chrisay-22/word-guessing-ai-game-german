@@ -44,6 +44,14 @@ A modern, cloud-native implementation of Wordle for German language learners, fe
 - Point system rewarding fewer attempts
 - Daily and monthly leaderboards
 
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-3.png)
+
+
+
 ---
 
 ## ✨ Key Features
