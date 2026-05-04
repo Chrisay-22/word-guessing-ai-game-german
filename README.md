@@ -49,6 +49,11 @@ A modern, cloud-native implementation of Wordle for German language learners, fe
 ## ✨ Key Features
 
 ### 🤖 AI Integration
+
+**Why AI at all?**
+It is a simple but non-trivial problem to get all german words which exist and especially to only use those german words which are suitable and valid for the game: there is one daily word which has to be guessed by the players - this word should be a "common" word, e.g. if it's a verb, it should be in its base form; as for nouns, they should not include proper nouns and so on. In other words, for the daily word to guess, the problem to solve was to 1) get a full dictionary of german words, 2) only make use of a subset of this dictionary which satisfies a certain ruleset and 3) randomly choose a word out of this subset without repetitions. A second, minor challenge is to validate the guesses the players submit: Again, players should not be able to cheat, e.g. by simply using "A E I O U" as a first guess, since all guess must also be existing, german words.
+Generative AI elegantly solves all these problems by completely eliminating the need for a dictionary, allowing us to define and apply rules in plain langauge rather than through complex, mathematically programmed and interdependent rules and let it generate and also validate words for us.
+
 - **Dynamic Word Generation**: Gemini 2.0 Flash-Lite generates contextually appropriate German words
 - **Smart Validation**: AI validates word correctness, spelling, and German language rules
 - **Learning System**: Stores user-forced words to improve validation accuracy
