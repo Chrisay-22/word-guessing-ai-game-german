@@ -44,11 +44,14 @@ A modern, cloud-native implementation of Wordle for German language learners, fe
 - Point system rewarding fewer attempts
 - Daily and monthly leaderboards
 
-![alt text](image.png)
+<div align="center">
 
-![alt text](image-1.png)
+| Game Board | Leaderboard | Game Won |
+|:---:|:---:|:---:|
+| ![Game Board](image.png) | ![Leaderboard](image-1.png) | ![coloured keyboard](image-3.png) |
+| *Active game with color-coded feedback* | *Daily leaderboard with rankings* | *Victory screen with scores and possibility to see insights of other players' guesses* |
 
-![alt text](image-3.png)
+</div>
 
 
 
