@@ -48,7 +48,7 @@ A modern, cloud-native implementation of Wordle for German language learners, fe
 
 | Game Board | Leaderboard | Coloured Keyboard | Insights to completed games |
 |:---:|:---:|:---:| :---: |
-| ![Game Board](image.png) | ![Leaderboard](image-1.png) | ![Coloured keyboard](image-3.png) | ![enemy games](image-4.png)
+| ![Game Board](image.png) | ![Leaderboard](image-5.png) | ![Coloured keyboard](image-3.png) | ![Insights to completed games](image-4.png)
 | *Active game with color-coded feedback* | *Daily, monthly and special leaderboards with point system and rankings* | *color-coded keyboard to comprehend which letters are valid or non-valid to use* | *Victory screen with scores and possibility to see insights of other players' guesses* |
 
 </div>
