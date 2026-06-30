@@ -29,7 +29,8 @@
 
 ## 🎯 Overview
 
-A modern, cloud-native implementation of Wordle for German language learners, featuring:
+A modern, cloud-native implementation of Wordle for German language. Actually, a we were playing it with a few friends but got bored that it's only 5 letters and that there's nothing like having built-in friendlist or leaderboards. So, I decided to build my own version with the possibility of different word lengths, integrated competition scoreboard and some minor silly features.
+Features:
 - **AI-powered word generation** using Google's Vertex AI (Gemini 2.0)
 - **Intelligent word validation** with natural language understanding
 - **Real-time leaderboards** with competitive scoring
